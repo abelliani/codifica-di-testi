@@ -32,17 +32,18 @@ article {
 }
 
 
-expan{
+.expan{
   display: none;
   background-color: #5cc081;
 }
 
-del{
+.del{
   background-color: rgb(216, 179, 245);
   display: none;
+  text-decoration: line-through;
 }
 
-supplied{
+.supplied{
     background-color: rgb(255, 224, 25);
     display: none;
 }

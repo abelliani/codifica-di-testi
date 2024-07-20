@@ -14,8 +14,26 @@
                 <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css" />
                 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
                 <script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script>
-                <script src="main.js"></script>
                 <link href="style.css" rel="stylesheet" type="text/css"/>
+                <script>
+                    $(document).ready(function () {
+                      $("#supplied").click(function () {
+                        $(".supplied").css("display", "inline");
+                      });
+          
+                      $("#del").click(function () {
+                        $(".del").css("display", "inline");
+                      });
+          
+                      $("#expan").click(function () {
+                        $(".expan").css("display", "inline");
+                      });
+          
+                      $("#hide").click(function () {
+                        $(".supplied, .del, .expan").hide();
+                      });
+                    });
+                  </script>               
             </head>
             <body>
                 <header>
@@ -96,24 +114,24 @@
     </xsl:template>
 
 
-    <xsl:template match="tei:supplied"> <!-- visualizzati in output-->
-        <supplied>
-            <xsl:apply-templates />
-        </supplied>
+    <xsl:template match="tei:supplied">
+        <span class="supplied" id="supplied">
+          <xsl:apply-templates />
+        </span>
     </xsl:template>
-        
-
-        <xsl:template match="tei:del"> <!-- visualizzati in output-->
-            <del>
-                <xsl:apply-templates />
-            </del>
-        </xsl:template>
-        
-    <xsl:template match="tei:expan"> <!-- visualizzati in output-->
-        <expan>
-            <xsl:apply-templates />
-        </expan>
-    </xsl:template>
+      
+      <xsl:template match="tei:del">
+        <span class="del" id="del">
+          <xsl:apply-templates />
+        </span>
+      </xsl:template>
+      
+      <xsl:template match="tei:expan">
+        <span class="expan" id="expan">
+          <xsl:apply-templates />
+        </span>
+      </xsl:template>
+      
         
     <xsl:template match="tei:pb">
         <div id="pagina_{@n}" class="page-break"/>
