@@ -2,8 +2,25 @@
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
       <title>Progetto di Codifica di Testi - Diari di E. Artom</title>
-      <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css"><script src="https://code.jquery.com/jquery-3.6.0.js"></script><script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script><script src="main.js"></script><link href="style.css" rel="stylesheet" type="text/css">
-   </head>
+      <link rel="stylesheet" href="https://code.jquery.com/ui/1.13.1/themes/base/jquery-ui.css"><script src="https://code.jquery.com/jquery-3.6.0.js"></script><script src="https://code.jquery.com/ui/1.13.1/jquery-ui.js"></script><link href="style.css" rel="stylesheet" type="text/css"><script>
+                    $(document).ready(function () {
+                      $("#supplied").click(function () {
+                        $(".supplied").css("display", "inline");
+                      });
+          
+                      $("#del").click(function () {
+                        $(".del").css("display", "inline");
+                      });
+          
+                      $("#expan").click(function () {
+                        $(".expan").css("display", "inline");
+                      });
+          
+                      $("#hide").click(function () {
+                        $(".supplied, .del, .expan").hide();
+                      });
+                    });
+                  </script></head>
    <body>
       <header>
          <ul>
