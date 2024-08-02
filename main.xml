@@ -127,86 +127,86 @@
 
 	<facsimile>
 		<surface n="1" xml:id="pag85">
-            <graphic url="pagina85.png" width="687px" height="912px"/>
-            <zone ulx="82" uly="65" lrx="638" lry="91" xml:id="pagina85_1"></zone> 
-            <zone ulx="85" uly="104" lrx="623" lry="127" xml:id="pagina85_2"></zone>
-            <zone ulx="82" uly="140" lrx="624" lry="164" xml:id="pagina85_3"></zone>
-            <zone ulx="83" uly="177" lrx="623" lry="201" xml:id="pagina85_4"></zone>
-            <zone ulx="83" uly="212" lrx="625" lry="237" xml:id="pagina85_5"></zone>
-            <zone ulx="85" uly="244" lrx="625" lry="271" xml:id="pagina85_6"></zone>
-            <zone ulx="80" uly="279" lrx="628" lry="313" xml:id="pagina85_7"></zone>
-            <zone ulx="77" uly="321" lrx="627" lry="350" xml:id="pagina85_8"></zone>
-            <zone ulx="76" uly="356" lrx="626" lry="384" xml:id="pagina85_9"></zone>
-            <zone ulx="81" uly="388" lrx="625" lry="420" xml:id="pagina85_10"></zone>
-            <zone ulx="84" uly="429" lrx="672" lry="461" xml:id="pagina85_11"></zone>
-            <zone ulx="82" uly="469" lrx="667" lry="499" xml:id="pagina85_12"></zone>
-            <zone ulx="84" uly="502" lrx="632" lry="532" xml:id="pagina85_13"></zone>
-            <zone ulx="82" uly="542" lrx="633" lry="569" xml:id="pagina85_14"></zone>
-            <zone ulx="86" uly="572" lrx="658" lry="607" xml:id="pagina85_15"></zone>
-            <zone ulx="85" uly="607" lrx="627" lry="643" xml:id="pagina85_16"></zone>
-            <zone ulx="82" uly="643" lrx="664" lry="677" xml:id="pagina85_17"></zone>
-            <zone ulx="84" uly="677" lrx="645" lry="715" xml:id="pagina85_18"></zone>
-            <zone ulx="83" uly="715" lrx="642" lry="751" xml:id="pagina85_19"></zone>
-            <zone ulx="84" uly="753" lrx="634" lry="787" xml:id="pagina85_20"></zone>
-            <zone ulx="83" uly="793" lrx="629" lry="825" xml:id="pagina85_21"></zone>
-            <zone ulx="80" uly="825" lrx="560" lry="860" xml:id="pagina85_22"></zone>
-        </surface>
+	            <graphic url="pagina85.png" width="687px" height="912px"/>
+	            <zone ulx="82" uly="65" lrx="638" lry="91" xml:id="pagina85_1"/>
+	            <zone ulx="85" uly="104" lrx="623" lry="127" xml:id="pagina85_2"/>
+	            <zone ulx="82" uly="140" lrx="624" lry="164" xml:id="pagina85_3"/>
+	            <zone ulx="83" uly="177" lrx="623" lry="201" xml:id="pagina85_4"/>
+	            <zone ulx="83" uly="212" lrx="625" lry="237" xml:id="pagina85_5"/>
+	            <zone ulx="85" uly="244" lrx="625" lry="271" xml:id="pagina85_6"/>
+	            <zone ulx="80" uly="279" lrx="628" lry="313" xml:id="pagina85_7"/>
+	            <zone ulx="77" uly="321" lrx="627" lry="350" xml:id="pagina85_8"/>
+	            <zone ulx="76" uly="356" lrx="626" lry="384" xml:id="pagina85_9"/>
+	            <zone ulx="81" uly="388" lrx="625" lry="420" xml:id="pagina85_10"/>
+	            <zone ulx="84" uly="429" lrx="672" lry="461" xml:id="pagina85_11"/>
+	            <zone ulx="82" uly="469" lrx="667" lry="499" xml:id="pagina85_12"/>
+	            <zone ulx="84" uly="502" lrx="632" lry="532" xml:id="pagina85_13"/>
+	            <zone ulx="82" uly="542" lrx="633" lry="569" xml:id="pagina85_14"/>
+	            <zone ulx="86" uly="572" lrx="658" lry="607" xml:id="pagina85_15"/>
+	            <zone ulx="85" uly="607" lrx="627" lry="643" xml:id="pagina85_16"/>
+	            <zone ulx="82" uly="643" lrx="664" lry="677" xml:id="pagina85_17"/>
+	            <zone ulx="84" uly="677" lrx="645" lry="715" xml:id="pagina85_18"/>
+	            <zone ulx="83" uly="715" lrx="642" lry="751" xml:id="pagina85_19"/>
+	            <zone ulx="84" uly="753" lrx="634" lry="787" xml:id="pagina85_20"/>
+	            <zone ulx="83" uly="793" lrx="629" lry="825" xml:id="pagina85_21"/>
+	            <zone ulx="80" uly="825" lrx="560" lry="860" xml:id="pagina85_22"/>
+	        </surface>
 	</facsimile>
 
 	<facsimile>
 		<surface n="2" xml:id="pag86">
-            <graphic url="pagina86.png" width="664px" height="893px"/>
-            <zone ulx="64" uly="53" lrx="601" lry="87" xml:id="pagina86_1"></zone>
-            <zone ulx="60" uly="96" lrx="602" lry="124" xml:id="pagina86_2"></zone>
-            <zone ulx="58" uly="131" lrx="580" lry="167" xml:id="pagina86_3"></zone>
-            <zone ulx="59" uly="167" lrx="603" lry="196" xml:id="pagina86_4"></zone>
-            <zone ulx="58" uly="203" lrx="616" lry="237" xml:id="pagina86_5"></zone>
-            <zone ulx="58" uly="239" lrx="612" lry="272" xml:id="pagina86_6"></zone>
-            <zone ulx="60" uly="275" lrx="607" lry="305" xml:id="pagina86_7"></zone>
-            <zone ulx="55" uly="345" lrx="617" lry="343" xml:id="pagina86_8"></zone>
-            <zone ulx="76" uly="356" lrx="609" lry="379" xml:id="pagina86_9"></zone>
-            <zone ulx="60" uly="384" lrx="623" lry="414" xml:id="pagina86_10"></zone>
-            <zone ulx="59" uly="425" lrx="611" lry="448" xml:id="pagina86_11"></zone>
-            <zone ulx="54" uly="461" lrx="583" lry="491" xml:id="pagina86_12"></zone>
-            <zone ulx="57" uly="497" lrx="610" lry="522" xml:id="pagina86_13"></zone>
-            <zone ulx="58" uly="533" lrx="639" lry="558" xml:id="pagina86_14"></zone>
-            <zone ulx="58" uly="566" lrx="587" lry="599" xml:id="pagina86_15"></zone>
-            <zone ulx="59" uly="605" lrx="590" lry="625" xml:id="pagina86_16"></zone>
-            <zone ulx="56" uly="642" lrx="587" lry="671" xml:id="pagina86_17"></zone>
-            <zone ulx="56" uly="670" lrx="566" lry="709" xml:id="pagina86_18"></zone>
-            <zone ulx="56" uly="712" lrx="658" lry="748" xml:id="pagina86_19"></zone>
-            <zone ulx="57" uly="755" lrx="629" lry="780" xml:id="pagina86_20"></zone>
-            <zone ulx="55" uly="792" lrx="627" lry="818" xml:id="pagina86_21"></zone>
-            <zone ulx="57" uly="825" lrx="558" lry="856" xml:id="pagina86_22"></zone>
-        </surface>
+	            <graphic url="pagina86.png" width="664px" height="893px"/>
+	            <zone ulx="64" uly="53" lrx="601" lry="87" xml:id="pagina86_1"/>
+	            <zone ulx="60" uly="96" lrx="602" lry="124" xml:id="pagina86_2"/>
+	            <zone ulx="58" uly="131" lrx="580" lry="167" xml:id="pagina86_3"/>
+	            <zone ulx="59" uly="167" lrx="603" lry="196" xml:id="pagina86_4"/>
+	            <zone ulx="58" uly="203" lrx="616" lry="237" xml:id="pagina86_5"/>
+	            <zone ulx="58" uly="239" lrx="612" lry="272" xml:id="pagina86_6"/>
+	            <zone ulx="60" uly="275" lrx="607" lry="305" xml:id="pagina86_7"/>
+	            <zone ulx="55" uly="345" lrx="617" lry="343" xml:id="pagina86_8"/>
+	            <zone ulx="76" uly="356" lrx="609" lry="379" xml:id="pagina86_9"/>
+	            <zone ulx="60" uly="384" lrx="623" lry="414" xml:id="pagina86_10"/>
+	            <zone ulx="59" uly="425" lrx="611" lry="448" xml:id="pagina86_11"/>
+	            <zone ulx="54" uly="461" lrx="583" lry="491" xml:id="pagina86_12"/>
+	            <zone ulx="57" uly="497" lrx="610" lry="522" xml:id="pagina86_13"/>
+	            <zone ulx="58" uly="533" lrx="639" lry="558" xml:id="pagina86_14"/>
+	            <zone ulx="58" uly="566" lrx="587" lry="599" xml:id="pagina86_15"/>
+	            <zone ulx="59" uly="605" lrx="590" lry="625" xml:id="pagina86_16"/>
+	            <zone ulx="56" uly="642" lrx="587" lry="671" xml:id="pagina86_17"/>
+	            <zone ulx="56" uly="670" lrx="566" lry="709" xml:id="pagina86_18"/>
+	            <zone ulx="56" uly="712" lrx="658" lry="748" xml:id="pagina86_19"/>
+	            <zone ulx="57" uly="755" lrx="629" lry="780" xml:id="pagina86_20"/>
+	            <zone ulx="55" uly="792" lrx="627" lry="818" xml:id="pagina86_21"/>
+	            <zone ulx="57" uly="825" lrx="558" lry="856" xml:id="pagina86_22"/>
+        	</surface>
 	</facsimile>
 
 	<facsimile>
 		<surface n="3" xml:id="pag89">
-            <graphic url="pagina89.png" width="656px" height="869px" /> 
-            <zone ulx="46" uly="35" lrx="633" lry="65" xml:id="pagina89_1"></zone>
-            <zone ulx="46" uly="77" lrx="608" lry="96" xml:id="pagina89_2"></zone>
-            <zone ulx="45" uly="111" lrx="645" lry="135" xml:id="pagina89_3"></zone>
-            <zone ulx="41" uly="141" lrx="596" lry="167" xml:id="pagina89_4"></zone>
-            <zone ulx="47" uly="184" lrx="586" lry="207" xml:id="pagina89_5"></zone>
-            <zone ulx="46" uly="225" lrx="626" lry="241" xml:id="pagina89_6"></zone>
-            <zone ulx="42" uly="257" lrx="622" lry="276" xml:id="pagina89_7"></zone>
-            <zone ulx="48" uly="291" lrx="605" lry="318" xml:id="pagina89_8"></zone>
-            <zone ulx="46" uly="327" lrx="611" lry="348" xml:id="pagina89_9"></zone>
-            <zone ulx="47" uly="358" lrx="606" lry="385" xml:id="pagina89_10"></zone>
-            <zone ulx="44" uly="394" lrx="574" lry="420" xml:id="pagina89_11"></zone>
-            <zone ulx="47" uly="432" lrx="587" lry="456" xml:id="pagina89_12"></zone>
-            <zone ulx="42" uly="468" lrx="589" lry="490" xml:id="pagina89_13"></zone>
-            <zone ulx="47" uly="498" lrx="651" lry="529" xml:id="pagina89_14"></zone>
-            <zone ulx="48" uly="543" lrx="574" lry="568" xml:id="pagina89_15"></zone>
-            <zone ulx="50" uly="576" lrx="611" lry="601" xml:id="pagina89_16"></zone>
-            <zone ulx="48" uly="611" lrx="621" lry="642" xml:id="pagina89_17"></zone>
-            <zone ulx="48" uly="649" lrx="578" lry="673" xml:id="pagina89_18"></zone>
-            <zone ulx="75" uly="687" lrx="586" lry="712" xml:id="pagina89_19"></zone>
-            <zone ulx="49" uly="719" lrx="563" lry="747" xml:id="pagina89_20"></zone>
-            <zone ulx="53" uly="758" lrx="567" lry="788" xml:id="pagina89_21"></zone>
-            <zone ulx="48" uly="799" lrx="578" lry="818" xml:id="pagina89_22"></zone>
-        </surface>
+	            <graphic url="pagina89.png" width="656px" height="869px"/> 
+	            <zone ulx="46" uly="35" lrx="633" lry="65" xml:id="pagina89_1"/>
+	            <zone ulx="46" uly="77" lrx="608" lry="96" xml:id="pagina89_2"/>
+	            <zone ulx="45" uly="111" lrx="645" lry="135" xml:id="pagina89_3"/>
+	            <zone ulx="41" uly="141" lrx="596" lry="167" xml:id="pagina89_4"/>
+	            <zone ulx="47" uly="184" lrx="586" lry="207" xml:id="pagina89_5"/>
+	            <zone ulx="46" uly="225" lrx="626" lry="241" xml:id="pagina89_6"/>
+	            <zone ulx="42" uly="257" lrx="622" lry="276" xml:id="pagina89_7"/>
+	            <zone ulx="48" uly="291" lrx="605" lry="318" xml:id="pagina89_8"/>
+	            <zone ulx="46" uly="327" lrx="611" lry="348" xml:id="pagina89_9"/>
+	            <zone ulx="47" uly="358" lrx="606" lry="385" xml:id="pagina89_10"/>
+	            <zone ulx="44" uly="394" lrx="574" lry="420" xml:id="pagina89_11"/>
+	            <zone ulx="47" uly="432" lrx="587" lry="456" xml:id="pagina89_12"/>
+	            <zone ulx="42" uly="468" lrx="589" lry="490" xml:id="pagina89_13"/>
+	            <zone ulx="47" uly="498" lrx="651" lry="529" xml:id="pagina89_14"/>
+	            <zone ulx="48" uly="543" lrx="574" lry="568" xml:id="pagina89_15"/>
+	            <zone ulx="50" uly="576" lrx="611" lry="601" xml:id="pagina89_16"/>
+	            <zone ulx="48" uly="611" lrx="621" lry="642" xml:id="pagina89_17"/>
+	            <zone ulx="48" uly="649" lrx="578" lry="673" xml:id="pagina89_18"/>
+	            <zone ulx="75" uly="687" lrx="586" lry="712" xml:id="pagina89_19"/>
+	            <zone ulx="49" uly="719" lrx="563" lry="747" xml:id="pagina89_20"/>
+	            <zone ulx="53" uly="758" lrx="567" lry="788" xml:id="pagina89_21"/>
+	            <zone ulx="48" uly="799" lrx="578" lry="818" xml:id="pagina89_22"/>
+	        </surface>
 	</facsimile>
 
 	<text xml:id="pag85-86-89" xml:lang="it" type="diary" subtype="manuscript">
