@@ -152,10 +152,6 @@
         </span>
     </xsl:template>
 
-    <xsl:template match="tei:pb">
-        <div id="pagina_{@n}" class="page-break"/>
-    </xsl:template>
-
     <xsl:template match="tei:lb">
         <br />
         <span class="line-break">
