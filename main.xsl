@@ -4,8 +4,6 @@
 
     <xsl:output method="html" encoding="UTF-8" omit-xml-declaration="yes" indent="yes"/>
 
-    <xsl:key name="pages" match="tei:ab" use="@n"/>
-
     <xsl:template match="/">
         <html>
             <head>
