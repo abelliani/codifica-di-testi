@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="main.xsl"?> 
+<!DOCTYPE TEI SYSTEM "tei_all.dtd"> 
+<TEI xmlns="http://www.tei-c.org/ns/1.0"> 
+
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:lang="it">Diari di Emanuele Artom</title>
+                <author>
+                    <persName ref="EA">
+                        <forename>Emanuele</forename>
+                        <surname>Artom</surname>
+                    </persName>
+                </author>
+            </titleStmt>
+
+            <editionStmt>
+                <edition>Edizione digitale.
+                    <date when="07-2024">Luglio 2024</date>
+                </edition>
+                <respStmt>
+                    <resp xml:id="AMDG">Progetto coordinato da</resp>
+                    <name>Angelo Mario Del Grosso</name>
+                </respStmt>
+                <respStmt>
+                    <resp xml:id="AB">A cura di</resp>
+                    <name>Andrea Belliani</name>
+                </respStmt>
+            </editionStmt>
+
+            <publicationStmt>
+                <publisher>Università di Pisa</publisher>
+                <pubPlace>Pisa</pubPlace>
+                <availability status="free">
+                    <p>Opera ad accesso libero</p>
+                </availability>
+                <date when="2024">2024</date>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+						<country key="IT" type="nation">Italia</country>
+						<settlement type="city">Torino</settlement>
+						<institution ref="CDEC">Centro di Documentazione Ebraica Contemporanea</institution>
+						<repository role="history institute" ref="https://digital-library.cdec.it/cdec-web/storico/detail/IT-CDEC-ST0003-000006/diari.html"></repository>
+						<collection>Fondo Emanuele Artom</collection>
+						<idno type="inventory">IT-CDEC-ST0003-000006 - b.1, fasc.9</idno>
+					</msIdentifier>
+
+                    <msContents>
+                        <msItem>
+                            <title xml:lang="it" type="main">Diari Artom</title>
+                            <author ref="EA">Emanuele Artom</author>
+                            <docDate>
+                                <date from="1940" to="1944">1940-1944</date>
+                            </docDate>
+                            <textLang mainLang="it">Italiano</textLang>
+                        </msItem>
+                    </msContents>
+
+                    <physDesc>
+                        <objectDesc form="diary">
+                            <supportDesc material="paper">
+                                <extent>
+                                    <num>172</num> pagine precedute da un appunto di <persName ref="ASA">Amalia Segre Artom</persName>.
+                                </extent>
+                                <condition>Il manoscritto si presenta in buone condizioni e leggibile, con poche eccezioni dovute a cancellature e macchie.</condition>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1" ruledLines="22">
+                                    <p>Ogni pagina presenta circa 22 righe di testo.</p>
+                                </layout>
+                            </layoutDesc>
+                        </objectDesc>
+
+                        <handDesc hands="2">
+                            <handNote>La prima pagina presenta un appunto di <persName ref="ASA">Amalia Segre Artom</persName>, madre di <persName ref="EA">Emanuele Artom</persName>, il quale ha scritto il diario interamente a mano.</handNote>
+                        </handDesc>
+                        <typeDesc>
+                            <p>Scritto in corsivo.</p>
+                        </typeDesc>
+                        <additions>
+                            <p>Il testo presenta delle aggiunte o correzioni ai margini delle pagine</p>.
+                        </additions>
+                    </physDesc>
+
+                    <history>
+                        <origin from="01-01-1940" to="23-02-1944">
+                            <p>Raccolta degli scritti autografi di <persName ref="EA">Emanuele Artom</persName> accompagnati dalla lettera della madre <persName ref="ASA">Amalia Segre Artom</persName>.
+                                I diari sono composti in due parti. La prima è una fonte di notizie sulla vita culturale torinese di quegli anni e sullo sviluppo della persecuzione razziale.
+                                La seconda parte, che va dal novembre 1943 al 23 febbraio 1944 riguarda invece l'esperienza partigiana di <persName ref="EA">Emanuele Artom</persName>.
+                            </p>
+                        </origin>
+                        <acquisition>
+                            <p>Donato per volontà della madre <persName ref="ASA">Amalia Segre Artom</persName> alla
+                                <orgName>
+                                    <roleName type="library">CDEC digital library</roleName>.
+                                </orgName>
+                            </p>
+                        </acquisition>
+                    </history>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+
+        <profileDesc>
+            <langUsage>
+                <language ident="it">Italiano</language>
+            </langUsage>
+            <settingDesc>
+                <setting>
+                    <name>
+                        Testi registrati dal Centro di Documentazione Ebraica Contemporanea - CDEC
+                        <placeName>Milano</placeName>,
+                        <country>Italia</country>.
+                    </name>
+                    <time>
+                        <date when="1943-1944">1943-1944</date>
+                    </time>
+                </setting>
+            </settingDesc>
+        </profileDesc>
+    </teiHeader>
+
+	<facsimile>
+		<surface n="1" xml:id="pag85">
+            <graphic url="pagina85.png" width="687px" height="912px"/>
+            <zone ulx="82" uly="65" lrx="638" lry="91" xml:id="pagina85_1"></zone>
+            <zone ulx="85" uly="104" lrx="623" lry="127" xml:id="pagina85_2"></zone>
+            <zone ulx="82" uly="140" lrx="624" lry="164" xml:id="pagina85_3"></zone>
+            <zone ulx="83" uly="177" lrx="623" lry="201" xml:id="pagina85_4"></zone>
+            <zone ulx="83" uly="212" lrx="625" lry="237" xml:id="pagina85_5"></zone>
+            <zone ulx="85" uly="244" lrx="625" lry="271" xml:id="pagina85_6"></zone>
+            <zone ulx="80" uly="279" lrx="628" lry="313" xml:id="pagina85_7"></zone>
+            <zone ulx="77" uly="321" lrx="627" lry="350" xml:id="pagina85_8"></zone>
+            <zone ulx="76" uly="356" lrx="626" lry="384" xml:id="pagina85_9"></zone>
+            <zone ulx="81" uly="388" lrx="625" lry="420" xml:id="pagina85_10"></zone>
+            <zone ulx="84" uly="429" lrx="672" lry="461" xml:id="pagina85_11"></zone>
+            <zone ulx="82" uly="469" lrx="667" lry="499" xml:id="pagina85_12"></zone>
+            <zone ulx="84" uly="502" lrx="632" lry="532" xml:id="pagina85_13"></zone>
+            <zone ulx="82" uly="542" lrx="633" lry="569" xml:id="pagina85_14"></zone>
+            <zone ulx="86" uly="572" lrx="658" lry="607" xml:id="pagina85_15"></zone>
+            <zone ulx="85" uly="607" lrx="627" lry="643" xml:id="pagina85_16"></zone>
+            <zone ulx="82" uly="643" lrx="664" lry="677" xml:id="pagina85_17"></zone>
+            <zone ulx="84" uly="677" lrx="645" lry="715" xml:id="pagina85_18"></zone>
+            <zone ulx="83" uly="715" lrx="642" lry="751" xml:id="pagina85_19"></zone>
+            <zone ulx="84" uly="753" lrx="634" lry="787" xml:id="pagina85_20"></zone>
+            <zone ulx="83" uly="793" lrx="629" lry="825" xml:id="pagina85_21"></zone>
+            <zone ulx="80" uly="825" lrx="560" lry="860" xml:id="pagina85_22"></zone>
+        </surface>
+	</facsimile>
+
+	<facsimile>
+		<surface n="2" xml:id="pag86">
+            <graphic url="pagina86.png" width="664px" height="893px"/>
+            <zone ulx="64" uly="53" lrx="601" lry="87" xml:id="pagina86_1"></zone>
+            <zone ulx="60" uly="96" lrx="602" lry="124" xml:id="pagina86_2"></zone>
+            <zone ulx="58" uly="131" lrx="580" lry="167" xml:id="pagina86_3"></zone>
+            <zone ulx="59" uly="167" lrx="603" lry="196" xml:id="pagina86_4"></zone>
+            <zone ulx="58" uly="203" lrx="616" lry="237" xml:id="pagina86_5"></zone>
+            <zone ulx="58" uly="239" lrx="612" lry="272" xml:id="pagina86_6"></zone>
+            <zone ulx="60" uly="275" lrx="607" lry="305" xml:id="pagina86_7"></zone>
+            <zone ulx="55" uly="345" lrx="617" lry="343" xml:id="pagina86_8"></zone>
+            <zone ulx="76" uly="356" lrx="609" lry="379" xml:id="pagina86_9"></zone>
+            <zone ulx="60" uly="384" lrx="623" lry="414" xml:id="pagina86_10"></zone>
+            <zone ulx="59" uly="425" lrx="611" lry="448" xml:id="pagina86_11"></zone>
+            <zone ulx="54" uly="461" lrx="583" lry="491" xml:id="pagina86_12"></zone>
+            <zone ulx="57" uly="497" lrx="610" lry="522" xml:id="pagina86_13"></zone>
+            <zone ulx="58" uly="533" lrx="639" lry="558" xml:id="pagina86_14"></zone>
+            <zone ulx="58" uly="566" lrx="587" lry="599" xml:id="pagina86_15"></zone>
+            <zone ulx="59" uly="605" lrx="590" lry="625" xml:id="pagina86_16"></zone>
+            <zone ulx="56" uly="642" lrx="587" lry="671" xml:id="pagina86_17"></zone>
+            <zone ulx="56" uly="670" lrx="566" lry="709" xml:id="pagina86_18"></zone>
+            <zone ulx="56" uly="712" lrx="658" lry="748" xml:id="pagina86_19"></zone>
+            <zone ulx="57" uly="755" lrx="629" lry="780" xml:id="pagina86_20"></zone>
+            <zone ulx="55" uly="792" lrx="627" lry="818" xml:id="pagina86_21"></zone>
+            <zone ulx="57" uly="825" lrx="558" lry="856" xml:id="pagina86_22"></zone>
+        </surface>
+	</facsimile>
+
+	<facsimile>
+		<surface n="3" xml:id="pag89">
+            <graphic url="pagina89.png" width="656px" height="869px"/> 
+            <zone ulx="46" uly="35" lrx="633" lry="65" xml:id="pagina89_1"></zone>
+            <zone ulx="46" uly="77" lrx="608" lry="96" xml:id="pagina89_2"></zone>
+            <zone ulx="45" uly="111" lrx="645" lry="135" xml:id="pagina89_3"></zone>
+            <zone ulx="41" uly="141" lrx="596" lry="167" xml:id="pagina89_4"></zone>
+            <zone ulx="47" uly="184" lrx="586" lry="207" xml:id="pagina89_5"></zone>
+            <zone ulx="46" uly="225" lrx="626" lry="241" xml:id="pagina89_6"></zone>
+            <zone ulx="42" uly="257" lrx="622" lry="276" xml:id="pagina89_7"></zone>
+            <zone ulx="48" uly="291" lrx="605" lry="318" xml:id="pagina89_8"></zone>
+            <zone ulx="46" uly="327" lrx="611" lry="348" xml:id="pagina89_9"></zone>
+            <zone ulx="47" uly="358" lrx="606" lry="385" xml:id="pagina89_10"></zone>
+            <zone ulx="44" uly="394" lrx="574" lry="420" xml:id="pagina89_11"></zone>
+            <zone ulx="47" uly="432" lrx="587" lry="456" xml:id="pagina89_12"></zone>
+            <zone ulx="42" uly="468" lrx="589" lry="490" xml:id="pagina89_13"></zone>
+            <zone ulx="47" uly="498" lrx="651" lry="529" xml:id="pagina89_14"></zone>
+            <zone ulx="48" uly="543" lrx="574" lry="568" xml:id="pagina89_15"></zone>
+            <zone ulx="50" uly="576" lrx="611" lry="601" xml:id="pagina89_16"></zone>
+            <zone ulx="48" uly="611" lrx="621" lry="642" xml:id="pagina89_17"></zone>
+            <zone ulx="48" uly="649" lrx="578" lry="673" xml:id="pagina89_18"></zone>
+            <zone ulx="75" uly="687" lrx="586" lry="712" xml:id="pagina89_19"></zone>
+            <zone ulx="49" uly="719" lrx="563" lry="747" xml:id="pagina89_20"></zone>
+            <zone ulx="53" uly="758" lrx="567" lry="788" xml:id="pagina89_21"></zone>
+            <zone ulx="48" uly="799" lrx="578" lry="818" xml:id="pagina89_22"></zone>
+        </surface>
+	</facsimile>
+
+	<text xml:id="pag85-86-89" xml:lang="it" type="diary" subtype="manuscript">
+		<body>
+            <div>
+			<ab type="page" n="85">
+                <pb xml:id="page85" facs="#page85"/>
+                <lb xml:id="pag85_l1" n="1"/>
+                arrestarli.<pc type="period"/> Credo che <persName><forename>Mussolini</forename></persName> abbia
+                <lb xml:id="pag85_l2" n="2"/>
+                apposta fatto pubblicare sui giornali
+                <lb xml:id="pag85_l3" n="3"/>
+                <unclear reason="ink blot">la</unclear> minaccia di provvedimenti antise<pc type="hyphenation">=</pc>
+                <lb xml:id="pag85_l4" n="4"/>
+                miti,<pc type="comma"/> perché avessimo tempo di
+                <lb xml:id="pag85_l5" n="5"/>
+                prepararci a nasconderci.<pc type="period"/>
+                <lb xml:id="pag85_l6" n="6"/>
+                <num type="cardinal">19</num> <supplied reason="omissis"><date when="1943-12">dicembre</date></supplied>
+                <lb xml:id="pag85_l7" n="7"/>
+                L'intrigo mi nausea e mi eccita insieme.<pc type="period"/>
+                <lb xml:id="pag85_l8" n="8"/>
+                Ho l'impressione di essere come un
+                <lb xml:id="pag85_l9" n="9"/>
+                ragno:<pc type="colon"/> lo schifo della tela bavosa e
+                <lb xml:id="pag85_l10" n="10"/>
+                dei cadaveri delle mosche,<pc type="comma"/> la soddi<pc type="hyphenation">=</pc>
+                <lb xml:id="pag85_l11" n="11"/>
+                sfazione di possedere una <unclear reason="ink blot">fortezza</unclear>
+                <lb xml:id="pag85_l12" n="12"/>
+                filiforme e tentacolare <gap reason="cancelled"/><del rend="overstrike"><supplied>?</supplied></del> che agguanta
+                <lb xml:id="pag85_l13" n="13"/>
+                animali più grandi.<pc type="period"/> Certo ora
+                <lb xml:id="pag85_l14" n="14"/>
+                dovrò abbandonare la banda <supplied reason="missing">mantenendo</supplied>
+                <lb xml:id="pag85_l15" n="15"/>
+                migliori rapporti con i capi comunisti.<pc type="period"/>
+                <lb xml:id="pag85_l16" n="16"/>
+                <persName><forename>Fiore</forename></persName> mi ha detto ingenuamente:<pc type="colon"/> sei
+                <lb xml:id="pag85_l17" n="17"/>
+                un ingenuo<pc type="hyphen"> - </pc> la sera che mi maltrattava
+                <lb xml:id="pag85_l18" n="18"/>
+                in infermeria.<pc type="period"/> Bisogna che tutti continuino
+                <lb xml:id="pag85_l19" n="19"/>
+                a credermi tale,<pc type="comma"/> e che non suppongano
+                <lb xml:id="pag85_l20" n="20"/>
+                il mio operato quel bel giorno che <persName><surname>Ba<pc type="hyphenation">=</pc>
+                <lb xml:id="pag85_l21" n="21"/>
+                lestrieri</surname></persName> e gli altri ufficiali e io <sic>parti<pc type="hyphenation">=</pc>
+                <lb xml:id="pag85_l22" n="22"/>
+                ranno</sic> con soldati,<pc type="comma"/> armi,<pc type="comma"/> bagagli.<pc type="period"/>
+            </ab>
+	
+			<ab type="page" n="86">
+                <pb xml:id="page86" facs="#page86"/>
+                <lb xml:id="pag86_l1" n="1"/>
+                Non mi pare di <abbr>far</abbr> male perché,<pc type="comma"/> i <choice><abbr>com</abbr><expan>unisti</expan></choice>
+                <lb xml:id="pag86_l2" n="2"/>
+                usano con noi le medesime armi e ne
+                <lb xml:id="pag86_l3" n="3"/>
+                è prova l'episodio di <persName><forename>Walter</forename></persName>,<pc type="comma"/> anzi
+                <lb xml:id="pag86_l4" n="4"/>
+                le hanno usate per primi.<pc type="period"/> La vittoria,
+                <lb xml:id="pag86_l5" n="5"/>
+                come ho già detto,<pc type="comma"/> sul terreno nazionale
+                <lb xml:id="pag86_l6" n="6"/>
+                dovrà toccare a noi,<pc type="comma"/> se saremo ben condotti;<pc type="semicolon"/>
+                <lb xml:id="pag86_l7" n="7"/>
+                su quello internazionale,<pc type="comma"/> che più conta,<pc type="comma"/>
+                <lb xml:id="pag86_l8" n="8"/>
+                è ancora incerto,<pc type="comma"/> ma bisogna ricordare
+                <lb xml:id="pag86_l9" n="9"/>
+                che la <placeName>Russia</placeName> non è in guerra col <placeName>Giappone</placeName>,
+                <lb xml:id="pag86_l10" n="10"/>
+                perché teme la <placeName>Cina</placeName>,<pc type="comma"/> il popolo più numeroso
+                <lb xml:id="pag86_l11" n="11"/>
+                del mondo e l'America,<pc type="comma"/> il popolo più 
+                <lb xml:id="pag86_l12" n="12"/>
+                potente.<pc type="period"/> La sua vittoria non è ancora
+                <lb xml:id="pag86_l13" n="13"/>
+                sicura.<pc type="period"/> Il programma comunista è <subst><del rend="overstrike">come</del><add place="supralinear">simile</add></subst>
+                <lb xml:id="pag86_l14" n="14"/>
+                <subst><del rend="overtype">i</del><add>a</add></subst>l mio,<pc type="comma"/> ma mi sembra più reazionario:
+                <lb xml:id="pag86_l15" n="15"/>
+                la dittatura di una classe e di la fede
+                <lb xml:id="pag86_l16" n="16"/>
+                superstiziosa in certi dogmi che non si 
+                <lb xml:id="pag86_l17" n="17"/>
+                discutono sono elementi del passato.<pc type="period"/>
+                <lb xml:id="pag86_l18" n="18"/>
+                Domani dovrà regnare la libertà.<pc type="period"/>
+                <lb xml:id="pag86_l19" n="19"/>
+                Inoltre si è sempre detto che la salvezza
+                <lb xml:id="pag86_l20" n="20"/>
+                <del rend="overstrike">fortuna</del> dell'<placeName><country>Italia</country></placeName> era il menefreghismo,
+                <lb xml:id="pag86_l21" n="21"/>
+                l'indifferenza dei fascisti che attutiva
+                <lb xml:id="pag86_l22" n="22"/>
+                ogni elemento radicale del fascismo.<pc type="period"/>
+            </ab>  
+
+			<ab type="page" n="89">
+                <pb xml:id="page89" facs="#page89"/>
+                <lb xml:id="pag89_l1" n="1"/>
+                ma non so se questo pensiero fosse
+                <lb xml:id="pag89_l2" n="2"/>
+                spontaneo o rispecchiasse <add place="inline">come reminescenza</add> un mo<pc type="hyphenation">=</pc>
+                <lb xml:id="pag89_l3" n="3"/>
+                tivo letterario <del rend="overstrike">pur</del> piuttosto sfruttato,
+                <lb xml:id="pag89_l4" n="4"/>
+                <del>come reminescenza</del>.<pc type="period"/> Poi osservai
+                <lb xml:id="pag89_l5" n="5"/>
+                fra me e me che non ho mai
+                <lb xml:id="pag89_l6" n="6"/>
+                sparato in battaglia,<pc type="comma"/> né tirato
+                <lb xml:id="pag89_l7" n="7"/>
+                una bomba a mano,<pc type="comma"/> e mi dicevo:
+                <lb xml:id="pag89_l8" n="8"/>
+                "sarò inutile,<pc type="comma"/> mi metterò in pe<pc type="hyphenation">=</pc>
+                <lb xml:id="pag89_l9" n="9"/>
+                rico per nulla",<pc type="comma"/> ma sentivo che 
+                <lb xml:id="pag89_l10" n="10"/>
+                <del rend="overstrike">era semplicemente una giustifi</del>
+                <lb xml:id="pag89_l11" n="11"/>
+                cercavo di giustificare con 
+                <lb xml:id="pag89_l12" n="12"/>
+                queste ragioni la mia cattiva
+                <lb xml:id="pag89_l13" n="13"/>
+                volontà.<pc type="period"/> Andavo per ragioni
+                <lb xml:id="pag89_l14" n="14"/>
+                di prestigio <add place="supralinear">personale e di partito</add>.<pc type="period"/> Giunto alla base
+                <lb xml:id="pag89_l15" n="15"/>
+                seppi che i <num type="cardinal">10</num> partigiani sa<pc type="hyphenation">=</pc>
+                <lb xml:id="pag89_l16" n="16"/>
+                rebbbero stati più di <num type="cardinal">15</num> e i <num type="cardinal">50</num>
+                <lb xml:id="pag89_l17" n="17"/>
+                tedeschi erano <num type="cardinal">7</num> fascisti piaz<pc type="hyphenation">=</pc>
+                <lb xml:id="pag89_l18" n="18"/>
+                zatisi in <placeName>Cavour</placeName> per <abbr>far</abbr> la 
+                <lb xml:id="pag89_l19" n="19"/>
+                tratta dei giovani del <num type="cardinal">24</num> e 
+                <lb xml:id="pag89_l20" n="20"/>
+                del <num type="cardinal">25</num>.<pc type="period"/> L'entusiasmo degli
+                <lb xml:id="pag89_l21" n="21"/>
+                altri mi avvolse,<pc type="comma"/> saltai da
+                <lb xml:id="pag89_l22" n="22"/>
+                un muretto sul camion con
+            </ab>
+        </div>
+		</body>
+	</text>
+</TEI>
